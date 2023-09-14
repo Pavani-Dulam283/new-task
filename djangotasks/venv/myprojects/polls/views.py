@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
 # Create your views here.
+# views here
 from django.http import HttpResponse
 import datetime
 from rest_framework.response import Response
