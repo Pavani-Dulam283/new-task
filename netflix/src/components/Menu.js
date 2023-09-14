@@ -1,6 +1,5 @@
 import React from "react";
 import "./Menu.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
 import net from "../assests/net.mp4";
 import net2 from "../assests/net2.mp4";
 import Accordion from 'react-bootstrap/Accordion';
